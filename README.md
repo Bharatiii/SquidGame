@@ -1,2 +1,2 @@
 # SquidGame
-the dataset is collect from Kaggle.
+the dataset is collected from Kaggle.
